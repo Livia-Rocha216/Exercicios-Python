@@ -1,2 +1,2 @@
-# Exerc-cios-Python
+# Exercicios-Python
 Exercícios de Python realizados até o momento.
